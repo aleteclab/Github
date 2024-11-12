@@ -1,0 +1,20 @@
+{
+    "OrderID":123456,
+    "Adress":"Belgrano 350",
+    "Status":"Ready",
+    "Articles":[
+        {
+            "Name":"Carne",
+            "Price":5000,
+            "Quantity":2,
+            "Dangerous":false
+},
+{
+            "Name":"vino",
+            "Price":4000,
+            "Quantity":2,
+            "Dangerous":true
+}
+
+    ]
+}
